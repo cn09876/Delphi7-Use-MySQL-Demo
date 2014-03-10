@@ -5,7 +5,7 @@ Delphi7直接连接MySQL示例
 
 - 此代码引用了UniDac for Delphi
 - 此代码使用Delphi7在Win7 32/64及WinXP 32编译通过
-- @_MySQL5_精简版.rar 是MYSQL5的精简包装包，解压到任意英文目录，密码123456
+- @_MySQL5_精简版.rar 是MYSQL5的精简安装包，解压到任意英文目录，密码123456
 
 *Author:* Sunway China
 
